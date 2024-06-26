@@ -1,4 +1,13 @@
 {
   "file": "./models/playlists.json",
-  "playlists": []
+  "playlists": [
+    {
+      "title": "test",
+      "_id": "f7e3692b-73ed-4e15-ae4d-c1c530603163"
+    },
+    {
+      "title": "test1",
+      "_id": "2c44c2da-340c-40a1-a27f-da24b3a64e44"
+    }
+  ]
 }

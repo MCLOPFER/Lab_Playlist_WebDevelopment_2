@@ -1,0 +1,40 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "demo",
+      "artist": "me",
+      "duration": 29,
+      "_id": "a901ed9e-a5e1-44e7-b858-432c65f09ec4",
+      "playlistid": "f7e3692b-73ed-4e15-ae4d-c1c530603163"
+    },
+    {
+      "title": "demo",
+      "artist": "me",
+      "duration": 29,
+      "_id": "1cb328f7-552b-4aab-afa2-f74185113a4e",
+      "playlistid": "f7e3692b-73ed-4e15-ae4d-c1c530603163"
+    },
+    {
+      "title": "demo",
+      "artist": "me",
+      "duration": 29,
+      "_id": "4055457b-a382-4abd-b0a0-8f919f32c90f",
+      "playlistid": "f7e3692b-73ed-4e15-ae4d-c1c530603163"
+    },
+    {
+      "title": "demo",
+      "artist": "me",
+      "duration": 29,
+      "_id": "991616c3-58b6-42af-b0a4-da283f2e67cb",
+      "playlistid": "f7e3692b-73ed-4e15-ae4d-c1c530603163"
+    },
+    {
+      "title": "demo1",
+      "artist": "me",
+      "duration": 30,
+      "_id": "6e224b4c-62fa-4e7a-a5dc-47b4e58e7ad3",
+      "playlistid": "f7e3692b-73ed-4e15-ae4d-c1c530603163"
+    }
+  ]
+}
