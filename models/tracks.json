@@ -28,13 +28,6 @@
       "duration": 29,
       "_id": "991616c3-58b6-42af-b0a4-da283f2e67cb",
       "playlistid": "f7e3692b-73ed-4e15-ae4d-c1c530603163"
-    },
-    {
-      "title": "demo1",
-      "artist": "me",
-      "duration": 30,
-      "_id": "6e224b4c-62fa-4e7a-a5dc-47b4e58e7ad3",
-      "playlistid": "f7e3692b-73ed-4e15-ae4d-c1c530603163"
     }
   ]
 }
