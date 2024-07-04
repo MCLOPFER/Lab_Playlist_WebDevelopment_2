@@ -36,4 +36,9 @@ export const playlistStore = {
     db.data.playlists = [];
     await db.write();
   },
+
+  async getPlaylistsByUserId(userid) {
+    await db.read();
+    return db.data.playlists.filter((playlist) => playlist.userid === userid);
+  },
 };
